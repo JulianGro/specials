@@ -22,8 +22,12 @@ Weitere Download-Quellen:<br>
 Worin besteht der Unterschied zur Vorversion?<br>
 Die Version 2010 nutzt die neue Gruppenfunktion des Pi-hole 5. Die Voreinstellung bestimmt dass die Listen zum Schutz von Minderjährigen (Glückspiel/FSK18-Seiten usw...) für den Standard-Nutzer gelten. Möchte ein Nutzer auf die zuvor genannten Seiten zugreifen, schiebt er seinen PC/Tablet in die Nutzergruppe "Adults". Eine ausführliche Erläuterung finden Sie hier: https://youtu.be/_Jj4Jv1s_hE
 <br>
+Was sind die Anmeldedaten?<br>
+Standard Nutzername ist `pi`; Standard Passwort ist `123456`.
 <br>
-<hr>
+Wie ändere ich mein Passwort?<br>
+Das Passwort kann mit dem Kommando `passwd` geändert werden.
+<br>
 <br>
 
 ## VMware Player und Synology Diskstation: http://sempervideo.de/svPiholeVM2105.zip<br>
